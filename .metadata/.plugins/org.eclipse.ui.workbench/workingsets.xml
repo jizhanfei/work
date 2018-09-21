@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516201471944_1" label="springboot" name="springboot">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cty" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Servers" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516201412637_0" label="Window Working Set" name="Aggregate for window 1516201412636"/>
+</workingSetManager>

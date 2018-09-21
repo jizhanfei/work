@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="com.cty.mapper.UserMapper"/>
+<fullyQualifiedTypeName name="com.cty.service.UserService"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="com.cty.pojo.User"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+<fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartHttpServletRequest"/>
+<fullyQualifiedTypeName name="org.springframework.web.multipart.commons.CommonsMultipartResolver"/>
+<fullyQualifiedTypeName name="com.cty.common.ImageUtil"/>
+<fullyQualifiedTypeName name="org.springframework.web.multipart.commons.CommonsMultipartFile"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="com.sun.jersey.api.client.Client"/>
+<fullyQualifiedTypeName name="com.sun.jersey.api.client.WebResource"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ActionSupport"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.ModelDriven"/>
+<fullyQualifiedTypeName name="java.lang.reflect.ParameterizedType"/>
+<fullyQualifiedTypeName name="com.cty.web.action.base.BaseAction"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+<fullyQualifiedTypeName name="org.apache.struts2.ServletActionContext"/>
+<fullyQualifiedTypeName name="com.opensymphony.xwork2.interceptor.MethodFilterInterceptor"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang3.StringUtils"/>
+<fullyQualifiedTypeName name="com.cty.dao.User"/>
+<fullyQualifiedTypeName name="com.cty.service.IUserService"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.cty.domain.User"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+</qualifiedTypeNameHistroy>
